@@ -1,7 +1,5 @@
 # mzt2gba
 
-![mzt2gbapy](C:\Users\peki\デスクトップ\01 tempworks\mzt2gbapy.PNG)
-
 MZ-700ソフトをGameboyAdvanceで実行できるようにする紅茶羊羹氏のエミュレータ MZ700GBA のためのGBAファイル作成フロントエンドです。
 
 ## 使い方
